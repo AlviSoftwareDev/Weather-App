@@ -13,7 +13,7 @@ import SnowImg from './assets/snowy.png';
 
 const weatherIcons = {
   Clear: ClearImg,
-  Rain: RainImg,
+  Rain: CloudsImg,
   Snow: SnowImg,
   Clouds: CloudsImg,
   Mist: MistImg,
