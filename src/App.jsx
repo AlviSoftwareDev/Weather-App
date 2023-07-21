@@ -4,20 +4,20 @@ import { BiSearch } from 'react-icons/bi';
 import { FiWind } from 'react-icons/fi';
 import { HiLocationMarker } from 'react-icons/hi';
 import { WiHumidity } from 'react-icons/wi';
-import Clear from './assets/clear.png';
-import Clouds from './assets/cloudy.png';
-import Haze from './assets/haze.png';
-import Mist from './assets/mist.png';
-import Rain from './assets/rain.png';
-import Snow from './assets/snowy.png';
+import ClearImg from './assets/clear.png';
+import CloudsImg from './assets/cloudy.png';
+import HazeImg from './assets/haze.png';
+import MistImg from './assets/mist.png';
+import RainImg from './assets/rain.png';
+import SnowImg from './assets/snowy.png';
 
 const weatherIcons = {
-  Clear: './src/assets/clear.png',
-  Rain: './src/assets/rain.png',
-  Snow: './src/assets/snowy.png',
-  Clouds: './src/assets/cloudy.png',
-  Mist: './src/assets/mist.png',
-  Haze: './src/assets/haze.png',
+  Clear: ClearImg,
+  Rain: RainImg,
+  Snow: SnowImg,
+  Clouds: CloudsImg,
+  Mist: MistImg,
+  Haze: HazeImg,
 };
 
 const App = () => {
