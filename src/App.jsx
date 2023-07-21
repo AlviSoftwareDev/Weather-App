@@ -6,12 +6,12 @@ import { HiLocationMarker } from 'react-icons/hi';
 import { WiHumidity } from 'react-icons/wi';
 
 const weatherIcons = {
-  Clear: '/clear.png',
-  Rain: '/rain.png',
-  Snow: '/snowy.png',
-  Clouds: '/cloudy.png',
-  Mist: '/mist.png',
-  Haze: '/haze.png',
+  Clear: './assets/clear.png',
+  Rain: './assets/rain.png',
+  Snow: './assets/snowy.png',
+  Clouds: './assets/cloudy.png',
+  Mist: './assets/mist.png',
+  Haze: './assets/haze.png',
 };
 
 const App = () => {
