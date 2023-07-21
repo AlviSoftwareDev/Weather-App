@@ -12,12 +12,12 @@ import Rain from './assets/rain.png';
 import Snow from './assets/snowy.png';
 
 const weatherIcons = {
-  Clear: Clear,
-  Rain: Rain,
-  Snow: Snow,
-  Clouds: Clouds,
-  Mist: Mist,
-  Haze: Haze,
+  Clear: './src/assets/clear.png',
+  Rain: './src/assets/rain.png',
+  Snow: './src/assets/snowy.png',
+  Clouds: './src/assets/cloudy.png',
+  Mist: './src/assets/mist.png',
+  Haze: './src/assets/haze.png',
 };
 
 const App = () => {
